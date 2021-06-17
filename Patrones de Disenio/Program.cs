@@ -11,7 +11,7 @@ namespace Patrones_de_Disenio
         static void Main(string[] args)
         {
              
-            // Invocamos la fabrica de tacos mandando como parametro el tipo de Taco
+            // Invocamos la fabrica de tacos mandando como parametro el tipo de Taco ajkajajajajja
             var mitaco = FabricaTacos.FabricaTaco(FabricaTacos.carnitas);
             Console.WriteLine(mitaco.GetTacoCarnitas().nombre);
 
